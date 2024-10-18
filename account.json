@@ -30,5 +30,13 @@
     "total_pengeluaran": 0,
     "status": true,
     "account_create": "2024-10-18 17:11"
+  },
+  "Belveshans01@gmail.com°Rerey°6283115834073": {
+    "password": "Anjay12",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-10-18 19:39"
   }
 }
