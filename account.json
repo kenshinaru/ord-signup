@@ -22,5 +22,13 @@
     "total_pengeluaran": 0,
     "status": true,
     "account_create": "2024-10-18 16:25"
+  },
+  "rizzmort9@gmail.com°rizzmort9@gmail.com rizzchatgpt°6283877722656": {
+    "password": "Rizzz.js",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-10-18 16:41"
   }
 }
