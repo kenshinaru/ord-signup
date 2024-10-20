@@ -38,5 +38,13 @@
     "total_pengeluaran": 27000,
     "status": true,
     "account_create": "2024-10-18 21:50"
+  },
+  "kemiisalsabila@gmail.com°Kemii Salsabila°628816609112": {
+    "password": "Kemii321456",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-10-20 10:41"
   }
 }
