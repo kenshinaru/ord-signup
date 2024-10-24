@@ -28,6 +28,12 @@
       "status": "PENDING",
       "tanggal": "2024-10-19 18:56:58",
       "harga": "-"
+    },
+    "VXMB°083188447110°1°6281310994964": {
+      "harga": 14799,
+      "status": "PROSES",
+      "refund": false,
+      "tanggal": "2024-10-24 17:05"
     }
   },
   "15812798706@s.whatsapp.net": {
@@ -51,5 +57,6 @@
     "tanggal": "19/10/2024 23:51:36",
     "status": "pending"
   },
-  "total_refID": null
+  "total_refID": null,
+  "total_uang_masuk": null
 }
