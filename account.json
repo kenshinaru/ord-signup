@@ -46,5 +46,13 @@
     "total_pengeluaran": 0,
     "status": true,
     "account_create": "2024-10-25 09:15"
+  },
+  "fynnxxc@gmail.com°seong°62895402466525": {
+    "password": "seon#123",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-10-25 13:45"
   }
 }
