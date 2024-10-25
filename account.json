@@ -38,5 +38,13 @@
     "total_pengeluaran": 71269,
     "status": true,
     "account_create": "2024-10-18 21:50"
+  },
+  "rajabbae119@gmail.com°kenshiss°15812798706": {
+    "password": "AmerikaS",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-10-25 09:15"
   }
 }
