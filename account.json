@@ -94,5 +94,13 @@
     "total_pengeluaran": 0,
     "status": true,
     "account_create": "2024-10-31 22:05"
+  },
+  "ridholinggau08@gmail.com°Ridhow°62895619811574": {
+    "password": "Lyodra",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-11-02 20:28"
   }
 }
