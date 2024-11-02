@@ -100,7 +100,7 @@
     "saldo": 0,
     "total_pembelian": 0,
     "total_pengeluaran": 0,
-    "status": false,
+    "status": true,
     "account_create": "2024-11-02 20:28"
   }
 }
